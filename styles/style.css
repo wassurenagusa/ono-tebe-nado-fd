@@ -17,7 +17,7 @@
   padding: 0;
 }
 
-.header__links-list-item{
+.header__links-list-item {
   text-transform: lowercase;
   text-decoration: none;
   border-bottom: 1px solid #000;
@@ -82,14 +82,14 @@
 }
 
 .cover__title {
+  display: flex;
+  flex-direction: column;
   position: relative;
   z-index: 1;
   color: #fff;
   font-size: 100px;
   font-weight: 700;
-  text-transform: uppercase;  
-  display: flex;
-  flex-direction: column;
+  text-transform: uppercase;
   row-gap: 18px;
 }
 
