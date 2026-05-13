@@ -4,7 +4,7 @@
 }
 
 .header {
-  padding: 83px 50px 92px;
+  padding: 92px 50px;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
